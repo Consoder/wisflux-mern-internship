@@ -4,7 +4,7 @@
 
 # JavaScript Basics
 
-- [X] Data Types
+- [ ] Data Types
 - [ ] Objects and Arrays
 - [ ] Array Operations
   - [ ] map
